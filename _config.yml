@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: weiqingeng/weiqingeng.github.io
 github_url: https://github.com/weiqingeng
 url: https://weiqingeng.github.io
-enforce_ssl: https://weiqingeng.github.io
+enforce_ssl: weiqingeng.github.io
 
 ## Gem
 plugins:
