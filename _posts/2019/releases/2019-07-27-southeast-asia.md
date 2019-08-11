@@ -13,13 +13,13 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 近日，一则视频在诈骗圈、科技圈广为流传，视频中黑胖男子手持钢管，殴打身穿白色上衣的男子。
 
-![](http://favorites.ren/assets/images/2019/it/asia01.gif)
+![](/assets/images/2019/it/asia01.gif)
 
 有人传言，被打的是一名在东南亚写代码的程序员，原因是上线重大**bug。**
 
 但也有人根据视频中一排排的群控手机，推测出此人也有可能是一名狗推。
 
-![](http://favorites.ren/assets/images/2019/it/asia02.png)
+![](/assets/images/2019/it/asia02.png)
 
 *(背后那一排排的工具，这正是他们四处加好友寻找肥猪的常用工具。)——源自“终结诈骗”分析*
 
@@ -55,7 +55,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 - 骗子们一般藏身于东南亚。
 
-![](http://favorites.ren/assets/images/2019/it/asia03.png)
+![](/assets/images/2019/it/asia03.png)
 
 这种只进不出的骗局，被业内取了个**形象又残酷的名字--“杀猪盘”。**
 
@@ -77,7 +77,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 所以有实力的IT人员，是被相当**“重视”**的。
 
-![](http://favorites.ren/assets/images/2019/it/asia04.png)
+![](/assets/images/2019/it/asia04.png)
 
 中国有着大量优秀的程序员，又有着温和、善良的性情，一向被认为**能干、能吃苦、好管理**，这些特质，成了东南亚一些“狗庄”（开博彩公司的）暗中瞄准的目标。
 
@@ -87,7 +87,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 以自己为主角，讲述一个在国内困苦不堪，到了东南亚后一夜之间，**赚钱赚到手软，日子快活似神仙的故事。**
 
-![](http://favorites.ren/assets/images/2019/it/asia05.png)
+![](/assets/images/2019/it/asia05.png)
 
 而各大招聘网站上赫赫的标着：**“跨国公司招聘海外开发，月薪一万五到三万”**，只字不提具体做什么。
 
@@ -95,9 +95,9 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 **让你相信老天终于开眼，从此人生荣华，一路高升。**
 
-![](http://favorites.ren/assets/images/2019/it/asia06.png)
+![](/assets/images/2019/it/asia06.png)
 
-![](http://favorites.ren/assets/images/2019/it/asia07.png)
+![](/assets/images/2019/it/asia07.png)
 
 有多少走投无路的老哥，虽然有一丝疑惑，或早已知道那些套路，但最终还是抵挡不住诱惑，被这些编故事的狗人事骗到了东南亚。
 
@@ -111,7 +111,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 承诺的高级海景房，宽敞明亮办公室，结果却是十几个人挤在一个几十平米的地方，日夜的坐在电脑前，像一台编程机器一样工作着。
 
-![](http://favorites.ren/assets/images/2019/it/asia08.png)
+![](/assets/images/2019/it/asia08.png)
 
 **就连上个厕所时间也有限制，稍有不顺，非打即骂。**
 
@@ -123,7 +123,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 如图：
 
-![](http://favorites.ren/assets/images/2019/it/asia09.png)
+![](/assets/images/2019/it/asia09.png)
 *图源：终结诈骗*
 
 没钱？好办啊，让你家人打钱过来。
@@ -134,7 +134,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 要么留下来，成为他们的代码狗，**成为他们残忍榨干受害者最后一滴血的帮手**，然后每日在无休无止的高压状态中频临崩溃。
 
-![](http://favorites.ren/assets/images/2019/it/asia10.png)
+![](/assets/images/2019/it/asia10.png)
 
 从此彻底沦为黑工，从精神到肉体再到钱财被榨干，直至掐掉你人生最后一丝生机。
 
@@ -156,7 +156,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 **“真的救我一条‘狗命’，可以吗，谢谢您了，我真的撑不住了。”**
 
-![](http://favorites.ren/assets/images/2019/it/asia11.png)
+![](/assets/images/2019/it/asia11.png)
 
 实际是柬埔寨波贝，紧邻泰国亚兰，定位偏差
 
@@ -186,7 +186,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 5天后没借来，开始用电线抽，一顿痛打。
 
-![](http://favorites.ren/assets/images/2019/it/asia12.gif)
+![](/assets/images/2019/it/asia12.gif)
 
 6天后还没有钱，开始电击。
 
@@ -202,7 +202,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 如今他们不再搬砖修路，而是转身，被迫或自愿的，直接或间接的，去诱骗国内的同胞。
 
-![](http://favorites.ren/assets/images/2019/it/asia13.png)
+![](/assets/images/2019/it/asia13.png)
 
 ## 4.生活不该这样
 
@@ -221,7 +221,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 吴晓波频道是这样评论的：
 **从外面看每一个人都是坏人，从里面看每一个人都是受害者。**
 
-![](http://favorites.ren/assets/images/2019/it/asia14.gif)
+![](/assets/images/2019/it/asia14.gif)
 
 这其中有多少人的无奈，和对生活的苦笑。
 
@@ -231,7 +231,7 @@ excerpt: 有人杀猪，有人给猪圈修护栏。
 
 以后？连25岁都活不下去了，哪还有以后！
 
-![](http://favorites.ren/assets/images/2019/it/asia15.jpeg)
+![](/assets/images/2019/it/asia15.jpeg)
 *图源：吴晓波频道*
 
 青春，瞬间变得绝望。

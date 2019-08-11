@@ -161,5 +161,5 @@ excerpt: 副业是什么
 
 如果你感兴趣可以进来看看，**三天内不满意可以随时退款。**
 
-![](http://favorites.ren/assets/images/2019/it/job01.jpeg)
+![](/assets/images/2019/it/job01.jpeg)
 

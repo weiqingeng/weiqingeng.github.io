@@ -10,7 +10,7 @@ excerpt: 为什么学 Python?
 
 立个 Flag :我要通过 100 天的学习，系统掌握一门编程语言。
 
-![](http://favorites.ren/assets/images/2019/it/100python01.png)
+![](/assets/images/2019/it/100python01.png)
 
 为什么要学习 Python 呢？
 
@@ -24,7 +24,7 @@ excerpt: 为什么学 Python?
 
 2019年， TIOBE 编程语言排行榜，Python 语言已经冲到了第三名。
 
-![](http://favorites.ren/assets/images/2019/it/100python02.png)
+![](/assets/images/2019/it/100python02.png)
 
 看到 Python 的这条增长曲线，有稳稳赶超第二名C语言，第一名 Java 的地位。
 
