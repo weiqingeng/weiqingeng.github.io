@@ -140,7 +140,7 @@ tags: [life]
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)** 
+**出处：[www.weiqingeng.com](http://www.weiqingeng.com)** 
 **版权所有，欢迎保留原文链接进行转载：)** 
 
 

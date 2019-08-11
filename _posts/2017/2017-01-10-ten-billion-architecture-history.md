@@ -32,14 +32,14 @@ tags: [arch]
 基础服务和中间件，mysql做了最基本的主从来支持，第一代系统只是使用了mysql的主库，从库只是同步备份；memcached用来处理用户抢标的并发问题，也只用了这一块；ActiveMQ用来使用二级市场的转让撮合以及其它一些异步消息通知。项目部署：php使用apache部署，定时服务使用tomcat6来做应用服务器，使用lvs来做前端apache的负载，基本上第一代也就这些技术了，下面是第一代系统的架构图。
 
  
-![](http://favorites.ren/assets/images/2017/architecture/framework1.jpg)  
+![](/assets/images/2017/architecture/framework1.jpg)  
 
 第一代系统上线之后，网站和H5(手机浏览器或者微信端)系统建设就变的特别突出，作为一个互联网金融公司没有官网不能忍，于是马不停蹄的又开始开发网站和H5系统，在这个期间PHP之前做的后台这块摘了出来，用java从新规划了一版，至此PHP就负责了网站、APP接口、H5这三个系统，三个系统共用一个核心交易，java这边负责后台管理和定时服务，我们一般给这个架构叫做1.1代架构。
 
 第1.1代系统架构图，绿色部分为变动部分
 
  
-![](http://favorites.ren/assets/images/2017/architecture/framework1.1.jpg)  
+![](/assets/images/2017/architecture/framework1.1.jpg)  
 
 
 > 第一代系统的缺点是业务过于集中，仓促上线，后期问题较多
@@ -155,6 +155,6 @@ mysql实时同步到mongodb，我们使用的是[tungsten-relicator](https://git
 
 -------------
 
-**作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**   
+**作者：程序猿小尾巴**  
+**出处：[www.weiqingeng.com](http://www.weiqingeng.com)**   
 **版权所有，欢迎保留原文链接进行转载：)** 

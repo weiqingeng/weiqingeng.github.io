@@ -7,7 +7,7 @@ tags: [life]
 excerpt: peace and love
 ---
 
-![](http://favorites.ren/assets/images/2019/it/love01.png)
+![](/assets/images/2019/it/love01.png)
 
 在小时候那个年代，别说是跳街舞，就是看街舞也是无比奢侈的事情，特别是来自十八线山城的农村。
 
@@ -21,7 +21,7 @@ excerpt: peace and love
 
 但街舞依然和我没有太多的关系，我只是喜欢，喜欢那种激情四射的感觉，那种感觉很年轻很热血的冲劲。
 
-![](http://favorites.ren/assets/images/2019/it/love02.png)
+![](/assets/images/2019/it/love02.png)
 
 后来我才从一个综艺节目当中得知这叫：Peace And Love，这就是街舞的精神。
 
@@ -29,7 +29,7 @@ excerpt: peace and love
 
 昨天晚上我刚好跟完《这！就是街舞 》第二季，豆瓣评分 9.0，《这！就是街舞 》第一季豆瓣评分是 8.6 ，节目口碑越办越好。
 
-![](http://favorites.ren/assets/images/2019/it/love03.png)
+![](/assets/images/2019/it/love03.png)
 
 其实，2018年的时候我就关注到了这个节目，海选的时候就很激动，终于在中国有一个大型媒体，开始创办街舞类节目了。
 
@@ -41,7 +41,7 @@ excerpt: peace and love
 
 2018年，两个视频网站大佬就碰到了一起，一个举办《这！就是街舞 》，一个举办《热血街舞团》，第一次两边去的大神都不少。
 
-![](http://favorites.ren/assets/images/2019/it/love04.png)
+![](/assets/images/2019/it/love04.png)
 
 刚开始举办的时候大家都不太看好，豆瓣评分都在 6.X 左右，随着比赛的不断推进，神奇的事情出现了，《这！就是街舞 》每涨一分，《热血街舞团》就掉一分。
 
@@ -63,11 +63,11 @@ excerpt: peace and love
 
 《这！就是街舞 》第一季的冠军是韩宇。
 
-![](http://favorites.ren/assets/images/2019/it/love05.png)
+![](/assets/images/2019/it/love05.png)
 
 第二季的冠军是叶音。
 
-![](http://favorites.ren/assets/images/2019/it/love06.png)
+![](/assets/images/2019/it/love06.png)
 
 两位都是经历过死战才拿下冠军，实至名归！看完这个总决赛之后，感触挺深，连夜写下这篇文章，强烈推荐大家观看，找找年轻和激情的感觉。
 

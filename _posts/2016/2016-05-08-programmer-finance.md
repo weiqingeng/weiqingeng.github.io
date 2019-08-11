@@ -84,7 +84,7 @@ tags: [zsxq]
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**      
+**出处：[www.weiqingeng.com](http://www.weiqingeng.com)**      
 **版权归作者所有，转载请注明出处** 
 
 

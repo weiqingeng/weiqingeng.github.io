@@ -27,10 +27,10 @@ excerpt: 面试资源
 > 画外音：xmind 高清大图，以及面试资料，文末获取，建议下载到电脑上查看。
 
 
-![](http://favorites.ren/assets/images/2019/it/kkb01.jpg)
-![](http://favorites.ren/assets/images/2019/it/kkb02.jpg)
-![](http://favorites.ren/assets/images/2019/it/kkb03.jpg)
-![](http://favorites.ren/assets/images/2019/it/kkb04.jpg)
+![](/assets/images/2019/it/kkb01.jpg)
+![](/assets/images/2019/it/kkb02.jpg)
+![](/assets/images/2019/it/kkb03.jpg)
+![](/assets/images/2019/it/kkb04.jpg)
 
 
 
@@ -57,7 +57,7 @@ excerpt: 面试资源
 > 画外音：免费。
 
 
-![](http://favorites.ren/assets/images/2019/it/kkb05.jpg)
+![](/assets/images/2019/it/kkb05.jpg)
 长按扫码  领取资料
 
 

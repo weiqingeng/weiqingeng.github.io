@@ -20,13 +20,13 @@ excerpt: 人生和街舞精神又有多大区别
 
 上周在看《这！就是街舞》第二季的总决赛的时候，邀请第一季的总冠军韩宇跳了一段舞蹈，跳完之后节目主持人对韩宇说，在这一年中生活都有什么变化。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly01.png)
+![](/assets/images/2019/it/danceonly01.png)
 
 韩宇说：我一直在等这个机会，然后这个机会就降临到我身上了，之后真的有千倍万倍的人来看我跳舞，我觉得我真的很幸运。
 
 **我觉得街舞最好的传承，不是教多少冠军出来，我觉得街舞最好的传承就是，告诉他们（孩子）做任何事情，他必须要去坚持，他必须要去热爱，不能半途而废。**
 
-![](http://favorites.ren/assets/images/2019/it/danceonly02.png)
+![](/assets/images/2019/it/danceonly02.png)
 
 其实很多很多街舞爱好者，都是普通家庭出身，街舞除过开培训班，其它的收入渠道很困难，苦逼的走过来。有的也许还经历着家人不认可。
 
@@ -48,7 +48,7 @@ excerpt: 人生和街舞精神又有多大区别
 
 刚好在《这！就是街舞》中给了他们机会，而且是非常重要的  Battle ，输赢将决定队友的去留。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly03.png)
+![](/assets/images/2019/it/danceonly03.png)
 
 冯正、阿K、三儿三位大神同台PK，比较有意思的是这次的裁判全部都不是中国人，所以也不用管谁是大神，一切以真正的实力为准。
 
@@ -60,7 +60,7 @@ excerpt: 人生和街舞精神又有多大区别
 
 冯正的一番回答让我到对他突然好感大升！
 
-![](http://favorites.ren/assets/images/2019/it/danceonly04.png)
+![](/assets/images/2019/it/danceonly04.png)
 
 他回答说：**没有什么客观因素可以说的，我也是北京爷们，输得起！**
 
@@ -68,11 +68,11 @@ excerpt: 人生和街舞精神又有多大区别
 
 后来复活赛的时候，又拉来石头给大家表演了一个节目，整体感觉他们是在玩街舞，作品的娱乐性和中国风还是很不错的，虽然没有晋级但是我喜欢这个作品。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly05.png)
+![](/assets/images/2019/it/danceonly05.png)
 
 阿K其实很强，也是 Battle 型的选手，但很可惜他遇上了叶音。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly06.png)
+![](/assets/images/2019/it/danceonly06.png)
 
 **两者相遇强者胜！**
 
@@ -84,13 +84,13 @@ excerpt: 人生和街舞精神又有多大区别
 
 决赛的规则很残酷但也很公平，需要比拼25场 Battle ，第一回合 7 场，第二回合 6 场，直到第五回合 3 场。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly07.png)
+![](/assets/images/2019/it/danceonly07.png)
 
 25 场 Battle 可以全方位的展示舞者的舞技，同时也对舞者的体力有严格的要求。所以不但考验的是舞技，更考验的是坚强的意志。
 
 大家来比赛都是想拿第一的，所以最后的超级 Battle ，对两个人都是背水一战！主持人廖搏在宣布规则之后，两个人和气的握了一下手，比赛正式开始。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly08.png)
+![](/assets/images/2019/it/danceonly08.png)
 
 第一回合，叶音一如既往的表现得很激动，拼劲全力去赢得比赛，炸点频频；反观 Franklin 总感觉他没有完全进入状态，动作幅度很小主要在玩细节，明显感觉没有拼劲全力。
 
@@ -98,13 +98,13 @@ excerpt: 人生和街舞精神又有多大区别
 
 第二回合，叶音更加激动，全身心的投入到比赛当中，甚至还完成了空中接帽的戏法，引发了全场的高潮。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly09.png)
+![](/assets/images/2019/it/danceonly09.png)
 
 Franklin 第二回合相对第一回合更加主动了一些，但动作变化不大，所以第二回合也仍旧没悬念，叶音再次获胜。
 
 第三回合很关键，如果叶音再次赢得此局的话，比赛结束。这一回合中 Franklin 明显开始放大招了，拼劲全力来进行  Battle。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly10.png)
+![](/assets/images/2019/it/danceonly10.png)
 
 甩手舞、矿泉水瓶子都成了跳舞的道具，大家都开始沸腾起来了，虽然是在比赛，但是参赛的双方看起来都非常的享受。
 
@@ -114,19 +114,19 @@ Franklin 第二回合相对第一回合更加主动了一些，但动作变化�
 
 此时，叶音被大家抬了起来，全场一片欢呼，这是属于冠军的时间。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly11.png)
+![](/assets/images/2019/it/danceonly11.png)
 
 叶音进入获奖感言时段，大家坐着听他的讲话，很有童话感。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly12.png)
+![](/assets/images/2019/it/danceonly12.png)
 
 最后的最后，叶音说他还想说一句，他说他的父母也来到了现场，他还想谢谢他的父母，很让人感动。
 
-![](http://favorites.ren/assets/images/2019/it/danceonly14.png)
+![](/assets/images/2019/it/danceonly14.png)
 
 ## 4. 拼尽全力才能赢
 
-![](http://favorites.ren/assets/images/2019/it/danceonly15.png)
+![](/assets/images/2019/it/danceonly15.png)
 
 《这！就是街舞》第二季完整的跟下来，感触最深是：想要做成任何事情，都必须去坚持，都必须去热爱，不能半途而废。
 
