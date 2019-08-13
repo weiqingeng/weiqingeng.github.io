@@ -2,8 +2,7 @@
 layout: page
 title: Spring Boot 系列文章
 titlebar: spring-boot
-subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
-     <a href ="https://github.com/weiqingeng/spring-boot-leaning">更多 Spring Boot 2.0 精选课程 ， <font color="#EB9439">点我</font>查看！</a><br/>
+subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href ="/assets/images/zonggong.jpg">关注公众号：<font color="#00FF00">程序猿小尾巴</font>，回复"springboot" 进群交流。</a>
 menu: spring-boot

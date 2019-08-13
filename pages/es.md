@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 消息中间件
-titlebar: mq
+title: elasticsearch
+titlebar: middleware
 subtitle: <span class="mega-octicon octicon-clippy"></span> &nbsp;&nbsp; Java 人的精神家园。>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="http://www.justdojava.com/" target="_blank" ><font color="#EB9439">点我直达</font></a>
 menu: java
 css: ['blog-page.css']
-permalink: /mq
+permalink: /es
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /mq
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='middleware' or post.category=='mq' or post.keywords contains 'middleware' %}
+                {% if post.category=='middleware' or post.category=='es' or post.keywords contains 'middleware' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

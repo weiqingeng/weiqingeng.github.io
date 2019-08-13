@@ -114,9 +114,19 @@ navs:
         subLabel: Spring Cloud
 
   -
-    href: /mq.html
-    label: 消息中间件
+    href: /middleware.html
+    label: 中间件
     target: _self
+    subnav:
+
+      -
+        subHref: /mq.html
+        subLabel: MQ
+
+      -
+        subHref: /es.html
+        subLabel: elasticsearch
+
 
   -
     
