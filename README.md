@@ -1,9 +1,9 @@
 # 个人博客
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
+技术伴我同行！
 
 
-访问地址：[http://www.ysdd.top/](http://www.ysdd.top/)
+访问地址：[http://www.weiqingeng.com/](http://www.weiqingeng.com/)
 
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.ysdd.top/assets/images/gongzong.jpg)
+![](http://www.weiqingeng.com/assets/images/gongzong.jpg)
