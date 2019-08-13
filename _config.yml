@@ -137,17 +137,26 @@ navs:
 
       -
         subHref: /jvm.html
-        subLabel: Jvm 系列文章
+        subLabel: jvm
         
       -
         subHref: /java.html
-        subLabel: Java
-        target: _blank
+        subLabel: java
 
   -
-    href: /archives.html
-    label: Archives
+    href: /db.html
+    label: 数据库
     target: _self
+    subnav:
+
+      -
+        subHref: /mysql.html
+        subLabel: mysql
+
+      -
+        subHref: /redis.html
+        subLabel: redis
+
 
   -
     href: /about.html

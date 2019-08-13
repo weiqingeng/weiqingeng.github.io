@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Jvm
-titlebar: java
+title: 数据库
+titlebar: db
 subtitle: <span class="mega-octicon octicon-clippy"></span>
 menu: java
 css: ['blog-page.css']
-permalink: /jvm
+permalink: /db
 ---
 
 <div class="row">
