@@ -7,10 +7,10 @@ tags: [it]
 excerpt: 资源共享
 ---
 
-
-jekyll是什么？可以看看官网说明...，我暂且把他理解成像tomcat一样的容器
-英文： https://www.jekyll.com/
-中文： https://www.jekyll.com.cn
+# 一个不爱折腾的程序猿不是一个好厨师  
+jekyll是什么？可以看看官网说明...，我暂且把他理解成像tomcat一样的容器  
+英文： https://www.jekyll.com/  
+中文： https://www.jekyll.com.cn  
 
 下面就直接上干货
 
@@ -26,7 +26,7 @@ github上托管博客很简单，只需fork一个主题，并将fork的工程名
 如果你需要配置自己的域名，可以在阿里云或者腾讯云上申请自己的域名，比如的我的域名为weiqingeng.com。在阿里云的控制台的域名解析配置以下的内容：
 
 有域名的可以在域名供应商后台进行解析(注意域名需要备案哦)  
-weiqingeng.com  CNAME  weiqingeng.github.com
+weiqingeng.com CNAME weiqingeng.github.com
 
 没有域名的可以直接访问 https://weiqingeng.github.com
 ![](/assets/images/web.jpg)
@@ -68,7 +68,7 @@ node -v
 npm -v
 ```
 看到下图，代表node安装成功，中间可能会出现各种问题，大家根据实际情况进行解决
-![](/assets/images/2019/home/nodenode.jpg)
+![](/assets/images/2019/home/node.jpg)
 
 
 ### 安装ruby
