@@ -31,8 +31,6 @@ weiqingeng.com CNAME weiqingeng.github.com
 没有域名的可以直接访问 https://weiqingeng.github.com
 ![](/assets/images/web.jpg)
 因为里面的好多样式都是调用的http，在https调用http有跨域问题，所以大家可以在weiqingeng.com域名里面讲对应的文件下载，放到自己的工程里面做相对地址访问
-
-
 是不是很easy
 
 
@@ -43,10 +41,10 @@ weiqingeng.com CNAME weiqingeng.github.com
 需要的环境：
 
 
-1.云服务器(阿里云，百度云，网易云，京东云，随便买一个就ok，我用的是阿里云)
-2 node环境
-3 jekyll
-4 ruby
+1.云服务器(阿里云，百度云，网易云，京东云，随便买一个就ok，我用的是阿里云)  
+2 node环境  
+3 jekyll  
+4 ruby  
 
 
 ### 安装Node
@@ -80,7 +78,9 @@ Jekyll依赖于Ruby环境，需要安装Ruby，执行以下命令(源码安装)�
  mkdir -p /usr/local/ruby
  tar -zxvf ruby-2.4.4.tar.gz 
  cd ruby-2.4.4
- ./configure --prefix=/usr/local/ruby
+ # --with-openssl-dir=/usr/bin,可能会出现ERROR:  While executing gem ... (Gem::Exception) 
+ # Unable to require openssl, install OpenSSL and rebuild ruby (preferred) or use non-HTTPS sources
+ ./configure --prefix=/usr/local/ruby --with-openssl-dir=/usr/bin
  make && make install
  #查看ruby版本，判断ruby是否安装成功
  ruby -v
@@ -313,9 +313,11 @@ root      2801  2719  0 22:48 pts/0    00:00:00 grep --color=auto deploy
 
 最后在nginx中配置接收github的请求转发
 
-location = /deploy {
+```
+location = /callback {
      proxy_pass http://127.0.0.1:3001/callback;
 }
+```
 
 ```
 #静态跳转

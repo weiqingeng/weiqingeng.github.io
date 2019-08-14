@@ -1,1 +1,11 @@
-访问量统计参考： http://linglinyp.com/jekyll/2017/05/17/busuanzi.html
+访问量统计参考：
+http://linglinyp.com/jekyll/2017/05/17/busuanzi.html
+http://ibruce.info/2015/04/04/busuanzi/#more
+
+Markdown 学习笔记
+http://linglinyp.com/study/2016/12/11/markdown-test.html
+
+
+Jekyll 静态博客实现搜索功能
+https://www.jianshu.com/p/064e2422f7c7
+https://github.com/christian-fei/Simple-Jekyll-Search
