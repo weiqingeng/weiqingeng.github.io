@@ -29,7 +29,7 @@ github上托管博客很简单，只需fork一个主题，并将fork的工程名
 weiqingeng.com CNAME weiqingeng.github.com
 
 没有域名的可以直接访问 https://weiqingeng.github.com
-![](/assets/images/web.jpg)
+![](/assets/images/2019/home/web.jpg)
 因为里面的好多样式都是调用的http，在https调用http有跨域问题，所以大家可以在weiqingeng.com域名里面讲对应的文件下载，放到自己的工程里面做相对地址访问
 是不是很easy
 
@@ -215,7 +215,7 @@ Payload URL: http://www.weiqingeng.com/callback
 Content type: application/json
 Secret: a123456
 ```
-![](/assets/images/2019/home/webhook.jpg)
+![](/assets/images/2019/home/webhook.png)
 
 2. 在服务器上接收github的事件，可以用java，php，nodejs等你熟悉的语言编写一个服务器接收请求，这里以nodejs为例：
 使用开源的 github-webhook-handler
@@ -376,6 +376,8 @@ gitalk:
 lazy_load_disqus : true
 ```
 
+### 全文检索
+良心参考博客： https://www.codeboy.me/2016/01/18/jekyll-search-component/ 
 
 
 
