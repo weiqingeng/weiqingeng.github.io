@@ -56,11 +56,6 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /python.html
-    label: Python
-    target: _self
-
-  -
     href: /it.html
     label: IT
     target: _self
@@ -84,6 +79,7 @@ menus:
     href: /link.html
     label: 友链
     target: _self
+
 
 
 

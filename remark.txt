@@ -7,5 +7,8 @@ http://linglinyp.com/study/2016/12/11/markdown-test.html
 
 
 Jekyll 静态博客实现搜索功能
+https://www.codeboy.me/2016/01/18/jekyll-search-component/
+参考
 https://www.jianshu.com/p/064e2422f7c7
 https://github.com/christian-fei/Simple-Jekyll-Search
+
