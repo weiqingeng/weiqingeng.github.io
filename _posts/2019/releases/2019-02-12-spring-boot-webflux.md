@@ -133,6 +133,6 @@ Welcome to reactive world ~
 
 全网最全的 Spring Boot 学习示例项目，击下方链接即可获取。
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
+**[示例代码-github](https://github.com/weiqingeng/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+**[示例代码-码云](https://gitee.com/weiqingeng/spring-boot-examples)**

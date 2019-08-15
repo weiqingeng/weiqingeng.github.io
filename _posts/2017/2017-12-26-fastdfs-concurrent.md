@@ -19,7 +19,7 @@ keywords: FastDFS,并发,架构
 - nginx ：1.7.9      
 - fastdfs-nginx-module：1.16
 
-为了尽可能的模拟生产，我在测试环境1:1搭建了一套和生产一样的FastDFS集群，当时也写了搭建过程：[FastDFS 集群 安装 配置](http://www.ityouknow.com/fastdfs/2017/10/10/cluster-building-fastdfs.html)
+为了尽可能的模拟生产，我在测试环境1:1搭建了一套和生产一样的FastDFS集群，当时也写了搭建过程：[FastDFS 集群 安装 配置](http://www.weiqingeng.com/fastdfs/2017/10/10/cluster-building-fastdfs.html)
 
 ## 从日志中找线索
 
@@ -383,7 +383,7 @@ public static String[] upload(FastDFSFile file) {
 
 **根据上面的分析可以看出，最好的解决方案就是每次调用的时候new一个新的实例去使用。也提醒大家在使用FastDFS的时候，尽量不要重用StorageClient！**
 
-后来我在github上面给FastDFS提交了pull来说明这个问题，有一个网友也给出了同样的理解：[解决并发空指针问题](https://github.com/happyfish100/fastdfs-client-java/pull/28) ；文中的测试代码我放到了这里：[spring-examples](https://github.com/ityouknow/spring-examples)，感兴趣的同学可以继续去了解。
+后来我在github上面给FastDFS提交了pull来说明这个问题，有一个网友也给出了同样的理解：[解决并发空指针问题](https://github.com/happyfish100/fastdfs-client-java/pull/28) ；文中的测试代码我放到了这里：[spring-examples](https://github.com/weiqingeng/spring-examples)，感兴趣的同学可以继续去了解。
 
 ## 最后
 

@@ -31,7 +31,7 @@ tags: [springboot]
 
 ## 开源
 
-- [程序猿小尾巴 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples)
+- [程序猿小尾巴 Spring Boot 示例](https://github.com/weiqingeng/spring-boot-examples)
 - [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)  
 - [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web)  
 - [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog)  

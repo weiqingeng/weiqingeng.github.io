@@ -203,9 +203,9 @@ t(spring:session:expirations:1472976480000
 其实就是按照上面的步骤在另一个项目中再次配置一次，启动后自动就进行了 Session 共享。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)**
+**[示例代码-github](https://github.com/weiqingeng/spring-boot-examples/tree/master/spring-boot-redis)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)**
+**[示例代码-码云](https://gitee.com/weiqingeng/spring-boot-examples/tree/master/spring-boot-redis)**
 
 > 文章内容已经升级到 Spring Boot 2.x 
 

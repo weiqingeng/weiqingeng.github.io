@@ -30,11 +30,11 @@ excerpt: 用了三年时间
 
 每个文章几乎都有小的项目示例，将这些小的示例项目放到了一个开源项目下面，随着文章越来越多， Star 数量增长也越来快，到了今天这个开源项目的 Star 数已经超过一万。
 
-## [spring-boot-examples(star 11600+)](https://github.com/ityouknow/spring-boot-examples)  
+## [spring-boot-examples(star 11600+)](https://github.com/weiqingeng/spring-boot-examples)  
 
 **项目主页**
 
-[https://github.com/ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+[https://github.com/weingeng/spring-boot-examples](https://github.com/weiqingeng/spring-boot-examples)
 
 **产品截图**
 
@@ -49,14 +49,14 @@ excerpt: 用了三年时间
 
 其它几个 Spring Boot 开源项目：
 
-- [awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot)
+- [awesome-spring-boot](https://github.com/weiqingeng/awesome-spring-boot)
 - [Favorites 云收藏](https://github.com/cloudfavorites/favorites-web)
-- [Spring Boot 精选课程示例项目](https://github.com/ityouknow/spring-boot-leaning)
+- [Spring Boot 精选课程示例项目](https://github.com/weiqingeng/spring-boot-leaning)
 
 还有和 Spring Boot 紧密相关的两个开源项目：
 
-- [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud)
-- [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
+- [awesome-spring-cloud](https://github.com/weiqingeng/awesome-spring-cloud)
+- [spring-cloud-examples](https://github.com/weiqingeng/spring-cloud-examples)
 
 根据项目名称，也可以猜出项目内容，如果感兴趣点击链接查看项目说明。
 

@@ -27,21 +27,21 @@ excerpt: 初心还在。
 
 ![](http://favorites.ren/assets/images/2018/life/flyever.jpg)
 
-2、[我的博客](http://www.ityouknow.com/)
+2、[我的博客](http://www.weiqingeng.com/)
 
-[www.ityouknow.com](http://www.ityouknow.com/)，这个博客是我独立搭建的网站，任何时候都会存在，并且此博客只发表我自己的文章，很纯洁。
+[www.weiqingeng.com](http://www.weiqingeng.com/)，这个博客是我独立搭建的网站，任何时候都会存在，并且此博客只发表我自己的文章，很纯洁。
 
-3、[我的知乎](https://www.zhihu.com/people/ityouknow/)
+3、[我的知乎](https://www.zhihu.com/people/weiqingeng/)
 
-[https://www.zhihu.com/people/ityouknow/](https://www.zhihu.com/people/ityouknow/)，知乎也是我经常逛的一个网站，不时的会回答一些问题，在知乎专栏上面也会发布我的最新文章。
+[https://www.zhihu.com/people/weiqingeng/](https://www.zhihu.com/people/weiqingeng/)，知乎也是我经常逛的一个网站，不时的会回答一些问题，在知乎专栏上面也会发布我的最新文章。
 
-4、[我的微博](https://weibo.com/ityouknow)
+4、[我的微博](https://weibo.com/weiqingeng)
 
-[https://weibo.com/ityouknow](https://weibo.com/ityouknow)，虽然没有怎么用，但偶尔也会上去看两眼。
+[https://weibo.com/weiqingeng](https://weibo.com/weiqingeng)，虽然没有怎么用，但偶尔也会上去看两眼。
 
-5、[我的 Github](https://github.com/ityouknow)
+5、[我的 Github](https://github.com/weiqingeng)
 
-[https://github.com/ityouknow](https://github.com/ityouknow)，如果你是一个程序员，这里是我分享开源代码的地方，可以选择 Fllow 关注我的动态。
+[https://github.com/weiqingeng](https://github.com/weiqingeng)，如果你是一个程序员，这里是我分享开源代码的地方，可以选择 Fllow 关注我的动态。
 
 6、搜索引擎
 

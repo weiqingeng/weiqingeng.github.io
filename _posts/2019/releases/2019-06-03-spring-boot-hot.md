@@ -28,7 +28,7 @@ keywords: Spring Boot
 
 项目地址：
 
-[https://github.com/ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+[https://github.com/weiqingeng/spring-boot-examples](https://github.com/weiqingeng/spring-boot-examples)
 
 >注：这个开源项目还有很多国际友人参与贡献。
 
@@ -92,7 +92,7 @@ Pivotal 公司可谓是大牛云集，公司研发的产品有： Spring 以及�
 
 2016 年风靡全球的云原生理念亦是 Pivotal 公司提出，美国硅谷著名的精益化创业书籍的作者 Eric Ries 也加入了 Pivotal公司。Spring Boot 为什么如此的优秀，正是因为背后有这些全球的顶级开发者。
 
-Pivotal 公司的背后其实是一场商业并购大片，有很多著名的公司在其身后，戴尔、Spring、EMC、VMware 等等，详情大家开源看这篇文章：[《是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了》](http://www.ityouknow.com/springboot/2019/01/03/spring-pivotal.html)。
+Pivotal 公司的背后其实是一场商业并购大片，有很多著名的公司在其身后，戴尔、Spring、EMC、VMware 等等，详情大家开源看这篇文章：[《是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了》](http://www.weiqingeng.com/springboot/2019/01/03/spring-pivotal.html)。
 
 ### 有个好干爹
 

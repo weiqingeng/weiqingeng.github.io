@@ -8,7 +8,7 @@ keywords: Spring Boot,MyBatis,MyBatis-Plus
 
 MyBatis-Plus 是 MyBatis 的第三方使用插件。
 
-前两天在公众号中发了[《Spring Boot(六)：如何优雅的使用 Mybatis》](http://www.ityouknow.com/springboot/2016/11/06/spring-boot-mybatis.html)，有朋友留言说能不能写一下整合 MyBatis-Plus 的教程。
+前两天在公众号中发了[《Spring Boot(六)：如何优雅的使用 Mybatis》](http://www.weiqingeng.com/springboot/2016/11/06/spring-boot-mybatis.html)，有朋友留言说能不能写一下整合 MyBatis-Plus 的教程。
 
 在这之前我对 MyBatis-Plus 其实了解不是很多，一般情况下也不太愿意使用第三方的组件。找时间了解了一下 MyBatis-Plus 发现还是国人出品的开源项目，并且在 Github 上有 5000 多个关注，说明在国内使用的用户已经不少。
 
@@ -74,11 +74,11 @@ CREATE TABLE user
 
 ```
 INSERT INTO user (id, name, age, email) VALUES
-(1, 'neo', 18, 'smile1@ityouknow.com'),
-(2, 'keep', 36, 'smile2@ityouknow.com'),
-(3, 'pure', 28, 'smile3@ityouknow.com'),
-(4, 'smile', 21, 'smile4@ityouknow.com'),
-(5, 'it', 24, 'smile5@ityouknow.com');
+(1, 'neo', 18, 'smile1@weiqingeng.com'),
+(2, 'keep', 36, 'smile2@weiqingeng.com'),
+(3, 'pure', 28, 'smile3@weiqingeng.com'),
+(4, 'smile', 21, 'smile4@weiqingeng.com'),
+(5, 'it', 24, 'smile5@weiqingeng.com');
 ```
 
 在示例项目的 resources 目录下创建 db 文件夹，将两个文件放入其中。
@@ -292,9 +292,9 @@ public void testPage() {
 
 全网最全的 Spring Boot 学习示例项目，击下方链接即可获取。
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
+**[示例代码-github](https://github.com/weiqingeng/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+**[示例代码-码云](https://gitee.com/weiqingeng/spring-boot-examples)**
 
 
 参考出处：

@@ -8,9 +8,9 @@ keywords: Spring Cloud,open source
 
 学习一门新的技术如果有优秀的开源项目，对初学者的学习将会是事半功倍，通过研究和学习优秀的开源项目，可以快速的了解此技术的相关应用场景和应用示例，参考优秀开源项目会降低将此技术引入到项目中的成本。为此抽了一些时间为大家寻找了一些非常优秀的 Spring Cloud 开源软件供大家学习参考。
 
-上次写了一篇文章[Spring Boot 2 (三)：Spring Boot 开源软件都有哪些](http://www.ityouknow.com/springboot/2018/03/05/spring-boot-open-source.html) 给大家介绍优秀的 Spring Boot 开源项目，本篇文章给介绍 Spring Cloud 的优秀开源项目。Spring Cloud 开源项目主要集中在 Github/码云 ，本文所有项目地址也均来自于这两个网站。
+上次写了一篇文章[Spring Boot 2 (三)：Spring Boot 开源软件都有哪些](http://www.weiqingeng.com/springboot/2018/03/05/spring-boot-open-source.html) 给大家介绍优秀的 Spring Boot 开源项目，本篇文章给介绍 Spring Cloud 的优秀开源项目。Spring Cloud 开源项目主要集中在 Github/码云 ，本文所有项目地址也均来自于这两个网站。
 
-## 1、 [awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud)
+## 1、 [awesome-spring-cloud](https://github.com/weiqingeng/awesome-spring-cloud)
 
 首先给大家介绍的就是 Spring Cloud 中文索引，这是一个专门收集 Spring Cloud 相关资料的开源项目，也有对应的导航页面。
 
@@ -20,7 +20,7 @@ keywords: Spring Cloud,open source
 
 **项目主页**
 
-[https://github.com/ityouknow/awesome-spring-cloud](https://github.com/ityouknow/awesome-spring-cloud)
+[https://github.com/weiqingeng/awesome-spring-cloud](https://github.com/weiqingeng/awesome-spring-cloud)
 
 **产品截图**
 
@@ -162,13 +162,13 @@ FCat项目基于 Angular 4 + Spring Cloud 的企业级基础功能框架。
 ![](http://favorites.ren/assets/images/2018/springcloud/FCat.png) 
 
 
-## 10、 [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
+## 10、 [spring-cloud-examples](https://github.com/weiqingeng/spring-cloud-examples)
 
 Spring Cloud 技术栈示例代码，快速简单上手教程，一个帮助大家学习 Spring Cloud 的开源示例项目，每个 Spring Cloud 组件都有独立的示例供大家参考学习。
 
 **项目主页**
 
-[https://github.com/ityouknow/spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
+[https://github.com/weiqingeng/spring-cloud-examples](https://github.com/weiqingeng/spring-cloud-examples)
 
 **项目截图**
 

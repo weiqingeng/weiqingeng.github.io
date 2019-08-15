@@ -14,7 +14,7 @@ excerpt: 超过预期。
 
 大家可能对这个阅读量没有概念，很多技术人的博客，建站很多年访问量才可以超过百万、或者千万这个级别。我这通过一篇文章就搞定百万阅读了，当然了这也是沾了 Spring Boot 这两年越来越火的原因。
 
-这篇文章是[《Spring Boot(一)：入门篇》](https://www.cnblogs.com/ityouknow/p/5662753.html)，是最初学习 Spring Boot 时写的一篇文章，地址在这里：[https://www.cnblogs.com/ityouknow/p/5662753.html](https://www.cnblogs.com/ityouknow/p/5662753.html)，随着 Spring Boot 版本的升级，我也在不断的更新这篇文章，系列文章也可以访问我的独立网站：[http://www.ityouknow.com/](http://www.ityouknow.com/)
+这篇文章是[《Spring Boot(一)：入门篇》](https://www.cnblogs.com/weiqingeng/p/5662753.html)，是最初学习 Spring Boot 时写的一篇文章，地址在这里：[https://www.cnblogs.com/weiqingeng/p/5662753.html](https://www.cnblogs.com/weiqingeng/p/5662753.html)，随着 Spring Boot 版本的升级，我也在不断的更新这篇文章，系列文章也可以访问我的独立网站：[http://www.weiqingeng.com/](http://www.weiqingeng.com/)
 
 后来我也研究了一下为什么这篇文章的阅读量这么高，然后我用不同的搜索引擎都搜索了一下"spring boot" ，发现这篇文章的排名也都很叼。
 
@@ -27,7 +27,7 @@ excerpt: 超过预期。
 
 随着这篇文章的阅读量创新高，我的一个开源项目 Star 也飙升到 github 排行榜前面。早年在学习 Spring Boot 的时候，将学习的示例项目统一放到了一个开源项目下，随着时间的推移现在 Star 关注量超过了 15000+。
 
-项目地址：[https://github.com/ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+项目地址：[https://github.com/weiqingeng/spring-boot-examples](https://github.com/weiqingeng/spring-boot-examples)
 
 ![](http://favorites.ren/assets/images/2019/springboot/million04.jpg)
 

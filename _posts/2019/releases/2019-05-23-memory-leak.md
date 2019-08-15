@@ -134,7 +134,7 @@ for (int i=1;i<100; i++)
 
 如果面试者可以回答上面的问题，我会接着和面试者聊聊，内存泄漏和内存溢出他们之间是否存在联系 、以及在日常工作中如何避免写出内存泄漏的代码 、如果生产出现 Jvm 相关问题时，排查问题的思路和步骤等等。
 
-这些问题在我的博客中都有答案，早些年写了一系列关于 Jvm 的文章，大家如果感兴趣的话接下来继续去阅读，[http://www.ityouknow.com/java.html](http://www.ityouknow.com/java.html)。
+这些问题在我的博客中都有答案，早些年写了一系列关于 Jvm 的文章，大家如果感兴趣的话接下来继续去阅读，[http://www.weiqingeng.com/java.html](http://www.weiqingeng.com/java.html)。
 
 如果大家觉得在手机上看着更方便，可以关注：**Java 极客技术**公号，已经输出了一些 JVM 文章，我博客中的 Jvm 系列文章也都会推送到这个公号中。
 

@@ -88,9 +88,9 @@ spring.mvc.favicon.enable=false
 
 > 文章内容已经升级到 Spring Boot 2.x 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
+**[示例代码-github](https://github.com/weiqingeng/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+**[示例代码-码云](https://gitee.com/weiqingeng/spring-boot-examples)**
 
 参考：
 
