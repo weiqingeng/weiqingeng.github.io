@@ -256,15 +256,15 @@ gitment:
     #仓库名称
     repo: weiqingeng.github.io
     oauth:
-        client_id: bab82b6a4d7b9623258a
-        client_secret: 829be82ab1507f39a370b7e55d3b7085c771fce7
+        client_id: d7dbee746a0e9aafcdaf
+        client_secret: dcca556afac7fe53b0a805452b10ac5b738bb22c
 # https://github.com/gitalk/gitalk#install
 gitalk:
     #对应 Application name
     owner: weiqingeng
     #github中当前项目的仓库名称
     repo: weiqingeng.github.io
-    clientID: bab82b6a4d7b9623258a
-    clientSecret: 829be82ab1507f39a370b7e55d3b7085c771fce7
+    clientID: d7dbee746a0e9aafcdaf
+    clientSecret: dcca556afac7fe53b0a805452b10ac5b738bb22c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
