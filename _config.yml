@@ -86,10 +86,10 @@ menus:
 # Navigation. main menu list
 navs:
 
-  -
-    href: /classroom.html
-    label: 小尾巴课堂
-    target: _self
+  #-
+  #  href: /classroom.html
+  #  label: 小尾巴课堂
+  #  target: _self
 
   -
     href: /
