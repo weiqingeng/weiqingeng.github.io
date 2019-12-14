@@ -115,16 +115,14 @@ navs:
         subLabel: mq
 
       -
-        subHref: /es.html
-        subLabel: elasticsearch
-
-      -
         subHref: /netty.html
         subLabel: netty
 
+      -
+        subHref: /es.html
+        subLabel: elasticsearch
 
   -
-    
     href: /java.html
     label: Java
     target: _blank

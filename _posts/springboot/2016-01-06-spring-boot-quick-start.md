@@ -186,11 +186,3 @@ public class HelloTests {
 ## 总结
 
 使用 Spring Boot 可以非常方便、快速搭建项目，使我们不用关心框架之间的兼容性，适用版本等各种问题，我们想使用任何东西，仅仅添加一个配置就可以，所以使用 Spring Boot 非常适合构建微服务。
-
-
-> 文章内容已经升级到 Spring Boot 2.x 
-
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)**
-
