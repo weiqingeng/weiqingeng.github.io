@@ -150,6 +150,11 @@ navs:
         subHref: /redis.html
         subLabel: redis
 
+  -
+    href: /arith.html
+    label: 算法&数据结构
+    target: _self
+
 
   -
     href: /about.html
