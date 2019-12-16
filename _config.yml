@@ -160,59 +160,28 @@ navs:
 # labels. my blog key words
 labels:
 
-  -
-    href: /payment.html
-    label: 支付     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _blank
-
-  -
-    href: /geektime.html
-    label: 极客
-    target: _blank
+  #-
+  #  href: /payment.html
+ #   label: 支付
+ #   target: _self
 
 
 # selected articles
-classes:
+#classes:
+ # -
+ #   href: /life.html
+ #   name: 我的故事
+ #   describe: 生活就是故事，故事就是生活
 
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
+ # -
+ #   href: /arch.html
+ #   name: 架构师之路
+ #   describe: 一个架构师的自我修养
 
-  -
-    href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
-
-  -
-    href: /java.html
-    name: Java 系列文章
-    describe: Java 之根基，Java 程序员必学
+ # -
+ #   href: /java.html
+ #   name: Java 系列文章
+ #   describe: Java 之根基，Java 程序员必学
 
 
 # ---------------- #
