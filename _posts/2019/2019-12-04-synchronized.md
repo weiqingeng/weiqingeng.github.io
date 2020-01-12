@@ -1,157 +1,36 @@
 ---
 layout: post
-title: 深入剖析Redis分布式锁
+title: 深入剖析Java并发之Synchronized锁
 category: redis
 tags: [redis]
-excerpt: 深入剖析Redis分布式锁，大白话分析Redis分布式锁
+excerpt: 深入剖析Synchronized锁，Java并发，java 锁，Synchronized锁
 ---
 
 # 前言
 
-工作中我们经常会提及到分布式锁，那么什么是分布式锁？本文只讲述RedLock，JAVA对其封装的框架是Redisson，下面是官方关于RedLock的技术论文：
-[https://redis.io/topics/distlock](https://redis.io/topics/distlock) 
+并发编程这个技术领域已经发展了半个世纪了，相关的理论和技术纷繁复杂。那有没有一种核心技术可以很方便地解决我们的并发问题呢？  
 
-# 环境
-redis-5.0.7  
-springboot-2.1.3.RELEASE   
-redisson springboot-starter 3.11.6  
+有，那就是管程技术(Monitor)！
 
-注意：版本不一致，可能略有不通
+# 定义
+所谓**管程，指的是管理共享变量以及对共享变量的操作过程，让他们支持并发。**翻译为 Java 领域的语言，就是管理类的成员变量和成员方法，让这个类是线程安全的。
 
-```
-maven依赖
-<!-- https://mvnrepository.com/artifact/org.redisson/redisson-spring-boot-starter -->
-<dependency>
-    <groupId>org.redisson</groupId>
-    <artifactId>redisson-spring-boot-starter</artifactId>
-    <version>3.11.6</version>
-</dependency>
+在管程的发展史上，先后出现过三种不同的管程模型，分别是：Hasen 模型、Hoare 模型和 MESA 模型。其中，现在广泛应用的是 MESA 模型，并且 Java 管程的实现参考的也是 MESA 模型。
+
+在并发编程领域，有两大核心问题：一个是互斥，即同一时刻只允许一个线程访问共享资源；另一个是同步，即线程之间如何通信、协作。这两大问题，管程都是能够解决的。
 
 
-gradle依赖
-// https://mvnrepository.com/artifact/org.redisson/redisson-spring-boot-starter
-compile group: 'org.redisson', name: 'redisson-spring-boot-starter', version: '3.11.6'
+**管程如何解决互斥问题**:  思路很简单，就是将共享变量及其对共享变量的操作统一封装起来。在下图中，管程 X 将共享变量 queue 这个队列和相关的操作入队 enq()、出队 deq() 都封装起来了；线程 A 和线程 B 如果想访问共享变量 queue，只能通过调用管程提供的 enq()、deq() 方法来实现；enq()、deq() 保证互斥性，只允许一个线程进入管程。不知你有没有发现，管程模型和面向对象高度契合的。估计这也是 Java 选择管程的原因吧。而我在前面章节介绍的互斥锁用法，其背后的模型其实就是它。
 
-```
+![](/assets/images/2019/synchronized/monitor.png)
 
 
-# 业务使用方式
+**管程解决线程间的同步问题呢**？这个就比较复杂了，不过你可以借鉴一下我们曾经提到过的就医流程，它可以帮助你快速地理解这个问题。为进一步便于你理解，在下面，我展示了一幅 MESA 管程模型示意图，
+它详细描述了 MESA 模型的主要组成部分。在管程模型里，共享变量和对共享变量的操作是被封装起来的，图中最外层的框就代表封装的意思。框的上面只有一个入口，并且在入口旁边还有一个入口等待队列。
+当多个线程同时试图进入管程内部时，只允许一个线程进入，其他线程则在入口等待队列中等待。这个过程类似就医流程的分诊，只允许一个患者就诊，其他患者都在门口等待。管程里还引入了条件变量的概念，
+而且每个条件变量都对应有一个等待队列，如下图，条件变量 A 和条件变量 B 分别都有自己的等待队列。那条件变量和等待队列的作用是什么呢？其实就是解决线程同步问题
 
-```java
-RedissonClient redissonClient = getRedisson();
-# 获取 redLock实例，Implements a <b>non-fair</b> locking so doesn't guarantees an acquire order by threads.
-RLock rLock = redissonClient.getLock("lockKey");
-rLock.lock();
-System.out.println("get lock");
-//TODO
-业务代码省略...
-rLock.unlock();
-        
-```
-
-
-# 获取锁源码分析
-
-**getLock(String name)源码** 
-
-```java
-     /**
-     * Returns Lock instance by name.
-     * <p>
-     * Implements a <b>non-fair</b> locking so doesn't guarantees an acquire order by threads.
-     *
-     * @param name - name of object
-     * @return Lock object
-     */
-    @Override
-    public RLock getLock(String name) {
-        return new RedissonLock(connectionManager.getCommandExecutor(), name);
-    }
-    
-    
-     public RedissonLock(CommandAsyncExecutor commandExecutor, String name) {
-        super(commandExecutor, name);
-        this.commandExecutor = commandExecutor;
-        this.id = commandExecutor.getConnectionManager().getId();
-        this.internalLockLeaseTime = commandExecutor.getConnectionManager().getCfg().getLockWatchdogTimeout();
-        this.entryName = id + ":" + name;
-        this.pubSub = commandExecutor.getConnectionManager().getSubscribeService().getLockPubSub();
-    }
-    
-```
-
-**debug截图**
-![](/assets/images/2019/redisson/redLock.png)
-
-getLock("lockKey")其实就是获取一个RedissonLock实例，使用的是非公平锁。  
-internalLockLeaseTime：锁失效时间，默认30s  
-
-
-
-**lock()源码实现**
-
-```java
-    @Override
-    public void lock() {
-        try {
-            lock(-1, null, false);
-        } catch (InterruptedException e) {
-            throw new IllegalStateException();
-        }
-    }
-    
-    
-    private void lock(long leaseTime, TimeUnit unit, boolean interruptibly) throws InterruptedException {
-        long threadId = Thread.currentThread().getId();
-        Long ttl = tryAcquire(leaseTime, unit, threadId);
-        // lock acquired
-        if (ttl == null) {
-            return;
-        }
-
-        RFuture<RedissonLockEntry> future = subscribe(threadId);
-        if (interruptibly) {
-            commandExecutor.syncSubscriptionInterrupted(future);
-        } else {
-            commandExecutor.syncSubscription(future);
-        }
-
-        try {
-            while (true) {
-                ttl = tryAcquire(leaseTime, unit, threadId);
-                // lock acquired
-                if (ttl == null) {
-                    break;
-                }
-
-                // waiting for message
-                if (ttl >= 0) {
-                    try {
-                        future.getNow().getLatch().tryAcquire(ttl, TimeUnit.MILLISECONDS);
-                    } catch (InterruptedException e) {
-                        if (interruptibly) {
-                            throw e;
-                        }
-                        future.getNow().getLatch().tryAcquire(ttl, TimeUnit.MILLISECONDS);
-                    }
-                } else {
-                    if (interruptibly) {
-                        future.getNow().getLatch().acquire();
-                    } else {
-                        future.getNow().getLatch().acquireUninterruptibly();
-                    }
-                }
-            }
-        } finally {
-            unsubscribe(future, threadId);
-        }
-//        get(lockAsync(leaseTime, unit));
-    }
-```
-
-**RedissonLock的tryLockInnerAsync源码实现**
-
-```java
+![](/assets/images/2019/synchronized/mesa.png)
 
     // 获取锁，想redis发送一段lua脚本
    <T> RFuture<T> tryLockInnerAsync(long leaseTime, TimeUnit unit, long threadId, RedisStrictCommand<T> command) {
